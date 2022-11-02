@@ -1,0 +1,6 @@
+name: pythondsminecraft
+main: com.sbp.pythondsminecraft.Pythondsminecraft
+version : 4.0
+description: Implementation for Minecraft Java server - Command Interface for programming with Python in Minecraft -  need to be use with with "mcse" (MineCraft SErver) python library
+api-version: 1.19
+website: http://pinet.rouviere.free.fr/description_mcse/index.html
